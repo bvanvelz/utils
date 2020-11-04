@@ -4,7 +4,7 @@ import re
 # Config
 #
 
-FILE = './data/20200726_weekly_housing_market_data_most_recent.tsv'
+FILE = './data/20201007_weekly_housing_market_data_most_recent.tsv'
 
 TABLE = 'redfin_data'
 
