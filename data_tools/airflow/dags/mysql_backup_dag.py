@@ -23,7 +23,7 @@ dag = DAG(
 # Define a Python function to perform the backup
 def mysql_backup(config_path):
     # Load configuration from the YAML file
-    with open('./config/mysql_backup.yaml', 'r') as config_file:
+    with open('../config/mysql_backup.yaml', 'r') as config_file:
         config = yaml.safe_load(config_file)
 
     today = datetime.datetime.now()
