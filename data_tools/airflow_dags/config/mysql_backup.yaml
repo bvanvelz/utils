@@ -1,0 +1,4 @@
+username: your_mysql_username
+password: your_mysql_password
+database: your_mysql_database
+backup_folder: /path/to/backup/folder
