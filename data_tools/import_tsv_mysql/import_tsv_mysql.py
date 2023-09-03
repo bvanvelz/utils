@@ -4,9 +4,9 @@ import re
 # Config
 #
 
-FILE = './data/20201007_weekly_housing_market_data_most_recent.tsv'
+FILE = './path/to/file.tsv'
 
-TABLE = 'redfin_data'
+TABLE = 'dstn_table'
 
 OUTPUT_DIR = './output'
 
